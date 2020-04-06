@@ -25,5 +25,7 @@ The project is released under the [MIT license](http://www.opensource.org/licens
 
 ## Contact
 The project's website is located at https://github.com/vargalaszlo87/base64e.c
+
 My personal website is located at http://vargalaszlo.com/index.php?q=c_base64e
+
 Author: Laszlo, Varga (varga.laszlo.drz@gmail.com)
