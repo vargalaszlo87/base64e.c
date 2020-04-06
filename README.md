@@ -6,6 +6,10 @@ Workd with 7bit ASCII, does not support UTF-8.
 
 ## Dependencies
 The function needs the decToBin function and the binToDec function. (Contained in base64e.c file.)
+```C
+char * decToBin(unsigned int num);
+int binToDec(const char * bin);
+```
 
 ## Usage
 It's very simply:
