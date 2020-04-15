@@ -4,8 +4,6 @@
  *		desc.:		This is a simple base64 encode script in pure C
  *				(without external library). Workd with 7bit ASCII.
  *				Attention! It does not check the input string.
- *				Made for WebSocket handshake response, but you can
- *				use it in any project.
  *
  *		usage:		char *msg = "Follow the white rabbit...";
  *				char *enc = base64Encode(msg);
